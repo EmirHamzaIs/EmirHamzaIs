@@ -1,4 +1,4 @@
-# 👋 Merhaba! Ben [Emir Hamza Işık]
+# 👋 Merhaba! Ben Emir Hamza Işık
 
 ## 💻 Hakkımda
 Ben yazılım geliştirmeye tutkulu bir geliştiriciyim. Web teknolojileri ile projeler geliştiriyor, sürekli yeni şeyler öğreniyorum. Amacım açık kaynak dünyasına katkı sağlamak ve yazılım alanında kendimi sürekli geliştirmek.
@@ -24,4 +24,4 @@ Ben yazılım geliştirmeye tutkulu bir geliştiriciyim. Web teknolojileri ile p
 
 ---
 
-### ✨ "Her gün bir satır kod yazmak, büyük bir yazılımcı olmanın ilk adımıdır."
+### "Her gün bir satır kod yazmak, büyük bir yazılımcı olmanın ilk adımıdır."
