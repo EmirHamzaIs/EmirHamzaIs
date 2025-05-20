@@ -20,7 +20,7 @@ Ben yazılım geliştirmeye tutkulu bir geliştiriciyim. Web teknolojileri ile p
 ## 📫 Bana Ulaş
 
 - 📧 Email: emirhmz@outlook.com
-- 💼 LinkedIn: [[linkedin.com/in/EmirHamzaIs](https://linkedin.com/in/senin-adin)](https://www.linkedin.com/in/emir-hamza-işık-7b0068243/)
+- 💼 LinkedIn: (https://linkedin.com/in/emirhamzaışık)
 
 ---
 
